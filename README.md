@@ -8,6 +8,9 @@
 ███████╗   ██║   ███████╗    ╚██████╔╝██║         ╚██████╔╝╚██████╔╝██████╔╝
 ╚══════╝   ╚═╝   ╚══════╝    ╚═════╝ ╚═╝          ╚═════╝  ╚═════╝ ╚═════╝ 
                           V 2 0 0 0  —  O M N I P O T E N T  N E X U S
+
+https://eyegodv-4000.onrender.com/
+
 ```
 
 **The most advanced multi-agent AI command & control system ever built as a single codebase.**
