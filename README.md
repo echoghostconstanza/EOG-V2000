@@ -1,6 +1,3 @@
-Aqui va el README.md listo para pegar directamente en GitHub:
-
-```markdown
 <div align="center">
 
 ```
