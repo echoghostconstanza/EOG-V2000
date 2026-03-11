@@ -1,7 +1,6 @@
 <div align="center">
 
 ```
-```
 ███████╗██╗   ██╗███████╗     ██████╗ ███████╗     ██████╗  ██████╗ ██████╗ 
 ██╔════╝╚██╗ ██╔╝██╔════╝    ██╔═══██╗██╔════╝    ██╔════╝ ██╔═══██╗██╔══██╗
 █████╗   ╚████╔╝ █████╗      ██║   ██║█████╗      ██║  ███╗██║   ██║██║  ██║
@@ -135,13 +134,9 @@ eyegod/
 
 <div align="center">
 
-**© EYE OF GOD Project — All rights reserved.**
+**© EYE OF GOD Project — All rights reserved.**  
 Unauthorized reproduction, distribution or reverse engineering is strictly prohibited.
 
 *Not a tool. An architecture of singularity.*
 
 </div>
-```
-
----
-
