@@ -10,6 +10,7 @@
                           V 2 0 0 0  —  O M N I P O T E N T  N E X U S
 
 https://eyegodv-4000.onrender.com/
+TRIAL SERVER: https://anita-unconductive-dinah.ngrok-free.dev/EyeGod_V2000_ULTRA.html
 
 ```
 
